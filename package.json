@@ -1,8 +1,0 @@
-{
-  "name": "Lyzo-musique",
-  "description": "Lyzo-musique",
-  "version": "1.0.0",
-  "engines": {
-    "node": "10.3.0"
-  }
-}
